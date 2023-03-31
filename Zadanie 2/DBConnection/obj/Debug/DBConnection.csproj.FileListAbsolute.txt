@@ -1,0 +1,11 @@
+C:\Практика\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Практика\DBConnection\obj\Debug\DBConnection.csproj.SuggestedBindingRedirects.cache
+C:\Практика\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Практика\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Практика\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Практика\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Практика\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Практика\DBConnection\bin\Debug\DBConnection.exe
+C:\Практика\DBConnection\bin\Debug\DBConnection.pdb
+C:\Практика\DBConnection\obj\Debug\DBConnection.exe
+C:\Практика\DBConnection\obj\Debug\DBConnection.pdb
