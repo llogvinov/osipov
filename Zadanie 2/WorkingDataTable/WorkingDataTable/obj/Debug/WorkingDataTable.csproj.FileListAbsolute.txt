@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\Pasha\source\repos\ado\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Практика\osipov\Zadanie 2\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

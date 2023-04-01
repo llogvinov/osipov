@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Users\Pasha\source\repos\ado\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Практика\osipov\Zadanie 2\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb

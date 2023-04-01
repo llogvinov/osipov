@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\Pasha\source\repos\ado\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Практика\osipov\Zadanie 2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb

@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\Pasha\source\repos\ado\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Практика\osipov\Zadanie 2\DBCommand\DBCommand\obj\Debug\DBCommand.pdb

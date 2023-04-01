@@ -1,0 +1,34 @@
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Pasha\source\repos\ado\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+C:\Практика\osipov\Zadanie 2\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete

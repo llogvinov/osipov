@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Users\Pasha\source\repos\ado\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Практика\osipov\Zadanie 2\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+C:\Users\Pasha\source\repos\ado\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Практика\osipov\Zadanie 2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb

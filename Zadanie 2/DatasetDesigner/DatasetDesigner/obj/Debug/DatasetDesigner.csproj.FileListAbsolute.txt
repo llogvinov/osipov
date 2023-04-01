@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+C:\Users\Pasha\source\repos\ado\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+C:\Практика\osipov\Zadanie 2\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb

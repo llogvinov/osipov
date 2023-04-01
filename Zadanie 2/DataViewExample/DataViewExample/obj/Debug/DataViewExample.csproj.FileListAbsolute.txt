@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\Pasha\source\repos\ado\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Практика\osipov\Zadanie 2\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb
