@@ -1,0 +1,22 @@
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\bin\Debug\TestStandartDialo.exe.config
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\bin\Debug\TestStandartDialo.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\bin\Debug\TestStandartDialo.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.Form1.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.pdb
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\bin\Debug\TestStandartDialo.exe.config
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\bin\Debug\TestStandartDialo.exe
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\bin\Debug\TestStandartDialo.pdb
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.Form1.resources
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.Properties.Resources.resources
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.exe
+C:\Users\darzn\source\repos\lab_4\TestStandartDialo\TestStandartDialo\obj\Debug\TestStandartDialo.pdb

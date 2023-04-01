@@ -1,0 +1,18 @@
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csprojAssemblyReference.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Users\Екатерина\Desktop\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\Екатерина\Desktop\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\Екатерина\Desktop\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\Екатерина\Desktop\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+D:\описов\исходники\калькулятор\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\описов\исходники\калькулятор\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\описов\исходники\калькулятор\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+D:\описов\исходники\калькулятор\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\описов\исходники\калькулятор\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\описов\исходники\калькулятор\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb

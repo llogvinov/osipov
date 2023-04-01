@@ -1,0 +1,36 @@
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб 2\EditPerson\EditPerson\obj\Debug\EditPerson.pdb
+D:\описов\исходники\lab_8\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+D:\описов\исходники\lab_8\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+D:\описов\исходники\lab_8\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.AssemblyReference.cache
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.SuggestedBindingRedirects.cache
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.cache
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.exe
+D:\описов\исходники\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.pdb
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.exe
+C:\Users\darzn\source\repos\lab_8\EditPerson\EditPerson\obj\Debug\EditPerson.pdb

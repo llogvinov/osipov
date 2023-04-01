@@ -1,0 +1,24 @@
+D:\описов\исходники\Windows Form Word\Windows Form Word\bin\Debug\Windows Form Word.exe.config
+D:\описов\исходники\Windows Form Word\Windows Form Word\bin\Debug\Windows Form Word.exe
+D:\описов\исходники\Windows Form Word\Windows Form Word\bin\Debug\Windows Form Word.pdb
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.AssemblyReference.cache
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.SuggestedBindingRedirects.cache
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.ResolveComReference.cache
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows_Form_Word.Form1.resources
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows_Form_Word.Properties.Resources.resources
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.GenerateResource.cache
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.CoreCompileInputs.cache
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.exe
+D:\описов\исходники\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.pdb
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\bin\Debug\Windows Form Word.exe.config
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\bin\Debug\Windows Form Word.exe
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\bin\Debug\Windows Form Word.pdb
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.ResolveComReference.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows_Form_Word.Form1.resources
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows_Form_Word.Properties.Resources.resources
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.exe
+C:\Users\darzn\source\repos\lab_5\Windows Form Word\Windows Form Word\obj\Debug\Windows Form Word.pdb

@@ -1,0 +1,22 @@
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\darzn\source\repos\lab_3\WinButNum\WinButNum\obj\Debug\WinButNum.pdb

@@ -1,0 +1,24 @@
+D:\описов\исходники\Windows Form\Windows Form\bin\Debug\Windows Form.exe.config
+D:\описов\исходники\Windows Form\Windows Form\bin\Debug\Windows Form.exe
+D:\описов\исходники\Windows Form\Windows Form\bin\Debug\Windows Form.pdb
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.AssemblyReference.cache
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.SuggestedBindingRedirects.cache
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.ResolveComReference.cache
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows_Form.Form1.resources
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows_Form.Properties.Resources.resources
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.GenerateResource.cache
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.CoreCompileInputs.cache
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows Form.exe
+D:\описов\исходники\Windows Form\Windows Form\obj\Debug\Windows Form.pdb
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\bin\Debug\Windows Form.exe.config
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\bin\Debug\Windows Form.exe
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\bin\Debug\Windows Form.pdb
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.ResolveComReference.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows_Form.Form1.resources
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows_Form.Properties.Resources.resources
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows Form.exe
+C:\Users\darzn\source\repos\lab_5\Windows Form\Windows Form\obj\Debug\Windows Form.pdb

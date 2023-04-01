@@ -1,0 +1,45 @@
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\bin\Debug\task4.exe.config
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\bin\Debug\task4.exe
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\bin\Debug\task4.pdb
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.UserControl1.resources
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.exe
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.pdb
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.Form1.resources
+C:\Users\hp\Desktop\Осипов\Лаб 1\лаба 3\task4\obj\Debug\task4.csprojAssemblyReference.cache
+C:\Users\Екатерина\Desktop\task4\bin\Debug\task4.exe.config
+C:\Users\Екатерина\Desktop\task4\bin\Debug\task4.exe
+C:\Users\Екатерина\Desktop\task4\bin\Debug\task4.pdb
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.Form1.resources
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.UserControl1.resources
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.exe
+C:\Users\Екатерина\Desktop\task4\obj\Debug\task4.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\bin\Debug\task4.exe.config
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\bin\Debug\task4.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\bin\Debug\task4.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.Form1.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.UserControl1.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 3\task4\obj\Debug\task4.pdb
+C:\Users\darzn\source\repos\lab_3\task4\bin\Debug\task4.exe.config
+C:\Users\darzn\source\repos\lab_3\task4\bin\Debug\task4.exe
+C:\Users\darzn\source\repos\lab_3\task4\bin\Debug\task4.pdb
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.Form1.resources
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.UserControl1.resources
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.exe
+C:\Users\darzn\source\repos\lab_3\task4\obj\Debug\task4.pdb

@@ -1,0 +1,24 @@
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.Form1.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.Form2.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 4\Project4\Project4\obj\Debug\Project4.pdb
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.Form1.resources
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.Form2.resources
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\darzn\source\repos\lab_4\Project4\Project4\obj\Debug\Project4.pdb

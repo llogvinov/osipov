@@ -1,0 +1,11 @@
+C:\Users\darzn\source\repos\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\darzn\source\repos\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\darzn\source\repos\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.AssemblyReference.cache
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\darzn\source\repos\WinContainer\WinContainer\obj\Debug\WinContainer.pdb

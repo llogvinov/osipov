@@ -1,0 +1,21 @@
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.pdb
+C:\Users\Екатерина\Desktop\ПО 4 курс\Лаб1\лаб 2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.AssemblyReference.cache
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.SuggestedBindingRedirects.cache
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.GenerateResource.cache
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\darzn\OneDrive\Рабочий стол\BiblWorm-20230331T142706Z-001\BiblWorm\BiblWorm\obj\Debug\BiblWorm.pdb
