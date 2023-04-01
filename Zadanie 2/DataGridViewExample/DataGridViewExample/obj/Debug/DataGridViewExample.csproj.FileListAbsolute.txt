@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\Pasha\source\repos\ado\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Практика\osipov\Zadanie 2\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

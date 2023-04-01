@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\Pasha\source\repos\ado\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Практика\osipov\Zadanie 2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb

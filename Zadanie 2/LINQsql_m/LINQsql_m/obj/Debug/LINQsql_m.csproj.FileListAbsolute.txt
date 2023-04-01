@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.pdb
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
+C:\Users\Pasha\source\repos\ado\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.pdb
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
+C:\Практика\osipov\Zadanie 2\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb

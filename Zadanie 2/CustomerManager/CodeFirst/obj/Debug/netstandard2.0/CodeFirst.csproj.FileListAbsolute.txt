@@ -1,0 +1,31 @@
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.deps.json
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.pdb
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfoInputs.cache
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfo.cs
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.pdb
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Pasha\source\repos\ado\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CopyComplete
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.deps.json
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.pdb
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\System.Security.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfoInputs.cache
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfo.cs
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CopyComplete
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.pdb

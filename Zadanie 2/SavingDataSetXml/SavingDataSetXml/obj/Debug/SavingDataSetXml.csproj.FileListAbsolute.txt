@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\Pasha\source\repos\ado\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Практика\osipov\Zadanie 2\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb

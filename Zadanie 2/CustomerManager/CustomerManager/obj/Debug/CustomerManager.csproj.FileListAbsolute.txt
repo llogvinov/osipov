@@ -1,0 +1,36 @@
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+C:\Users\Pasha\source\repos\ado\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Практика\osipov\Zadanie 2\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb

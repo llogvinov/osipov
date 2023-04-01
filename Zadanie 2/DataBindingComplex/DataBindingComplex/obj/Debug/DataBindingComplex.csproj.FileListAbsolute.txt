@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+C:\Users\Pasha\source\repos\ado\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Практика\osipov\Zadanie 2\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb

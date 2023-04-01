@@ -1,0 +1,22 @@
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+C:\Users\Pasha\source\repos\ado\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.AssemblyReference.cache
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.SuggestedBindingRedirects.cache
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+C:\Практика\osipov\Zadanie 2\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb
